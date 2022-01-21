@@ -1,0 +1,5 @@
+leftnav:
+- identifier: external-45db9387d9eb4617a5be35fd0171548b
+  name: Online Publication
+  url: http://www-math.mit.edu/%7Edjk/calculus_beginners/
+  weight: 1000
