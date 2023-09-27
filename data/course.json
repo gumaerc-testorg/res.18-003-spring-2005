@@ -26,6 +26,7 @@
     "website": "res-18-003-calculus-for-beginners-and-artists-spring-2005"
   },
   "course_title": "Calculus for Beginners and Artists",
+  "hide_download": true,
   "course_description": "This online textbook provides an overview of Calculus in clear, easy to understand language designed for the non-mathematician.\n\n[Online Publication](http://www-math.mit.edu/~djk/calculus_beginners/)\n",
   "department_numbers": [
     "RES"
@@ -37,6 +38,7 @@
     "website": "res-18-003-calculus-for-beginners-and-artists-spring-2005"
   },
   "learning_resource_types": [],
-  "site_uid": "7bcac65c-1346-4ee4-8181-359842815046",
+  "site_uid": "f987df54-a697-4169-8756-53e572387abf",
+  "site_short_id": "res.18-003-spring-2005",
   "title": "Course Metadata"
 }
