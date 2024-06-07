@@ -27,7 +27,7 @@
   },
   "course_title": "Calculus for Beginners and Artists",
   "hide_download": true,
-  "course_description": "This online textbook provides an overview of Calculus in clear, easy to understand language designed for the non-mathematician.\n\n{{% resource_link \"288b5d55-7c01-4458-b132-a411e178ad1f\" \"Online Publication\" %}}\n",
+  "course_description": "This online textbook provides an overview of Calculus in clear, easy to understand language designed for the non-mathematician.\n\n[Online Publication](http://www-math.mit.edu/~djk/calculus_beginners/)\n",
   "department_numbers": [
     "RES"
   ],
